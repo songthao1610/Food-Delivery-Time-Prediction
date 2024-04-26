@@ -1,7 +1,5 @@
 # Time Delivery Prediction
 
-# Time Delivery Prediction
-
  files related to the Time Delivery Prediction project.
 
 - **README.md:** This file serves as the main documentation for the project, providing details on the business case, methodology, and findings.
