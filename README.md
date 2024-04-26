@@ -1,12 +1,16 @@
 # Time Delivery Prediction
-├── README.md                   <-- Main README file explaining the project's business case,
-│                                    methodology, and findings
-├── Official_notebook.ipynb     <-- Jupyter Notebooks for exploration and presentation
+
+├── README.md                   <-- Main README file explaining the project's business case, methodology, and findings
+
+├── Official_notebook.ipynb     <-- Jupyter Notebook for data exploration and presentation
+
 ├── presentation.pdf            <-- Non-technical presentation slides
-├── requirement.txt             <-- File containing the project requirements and dependencies.
+
+├── requirement.txt             <-- File containing project requirements and dependencies
+
 ### Quick Links
-[Link to Presentation PDF](https://github.com/songthao1610/Food-Delivery-Time-Prediction/blob/main/presentation.pdf)
-[Link to Official Notebook](https://github.com/songthao1610/Food-Delivery-Time-Prediction/blob/main/official_notebook.ipynb)
+- [Link to Presentation PDF](https://github.com/songthao1610/Food-Delivery-Time-Prediction/blob/main/presentation.pdf)
+- [Link to Official Notebook](https://github.com/songthao1610/Food-Delivery-Time-Prediction/blob/main/official_notebook.ipynb)
 
 ### Business Problem: 
 The delivery service industry faces the critical challenge of accurately predicting delivery times to ensure efficient operations and meet customer expectations. Inaccurate delivery time estimates can lead to customer dissatisfaction, increased operational costs, and resource mismanagement. Therefore, the primary business problem addressed in this project is the need for a reliable time delivery prediction model that enhances operational efficiency and customer satisfaction.
