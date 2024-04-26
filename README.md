@@ -4,13 +4,13 @@
 
  files related to the Time Delivery Prediction project.
 
-├── README.md                   <-- Main README file explaining the project's business case, methodology, and findings
-│
-├── Official_notebook.ipynb     <-- Jupyter Notebook for exploration and presentation
-│
-├── presentation.pdf            <-- Non-technical presentation slides
-│
-├── requirement.txt             <-- File containing the project requirements and dependencies
+- **README.md:** This file serves as the main documentation for the project, providing details on the business case, methodology, and findings.
+
+- **Official_notebook.ipynb:** This Jupyter Notebook contains code for data exploration and presentation purposes.
+
+- **presentation.pdf:** These are the non-technical presentation slides summarizing the project.
+
+- **requirement.txt:** This file lists the project requirements and dependencies needed to run the code.
 
 
 ### Quick Links
