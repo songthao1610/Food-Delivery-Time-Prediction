@@ -1,12 +1,17 @@
 # Time Delivery Prediction
 
+# Time Delivery Prediction
+
+ files related to the Time Delivery Prediction project.
+
 ├── README.md                   <-- Main README file explaining the project's business case, methodology, and findings
-
-├── Official_notebook.ipynb     <-- Jupyter Notebook for data exploration and presentation
-
+│
+├── Official_notebook.ipynb     <-- Jupyter Notebook for exploration and presentation
+│
 ├── presentation.pdf            <-- Non-technical presentation slides
+│
+├── requirement.txt             <-- File containing the project requirements and dependencies
 
-├── requirement.txt             <-- File containing project requirements and dependencies
 
 ### Quick Links
 - [Link to Presentation PDF](https://github.com/songthao1610/Food-Delivery-Time-Prediction/blob/main/presentation.pdf)
